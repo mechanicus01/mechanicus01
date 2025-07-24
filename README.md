@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Phillip Cardenas, a passionate developer with a keen interest in creating innovative solutions. I love exploring new technologies and continuously improving my skills.
+
+[![DevOps Repo](https://img.shields.io/badge/DEvOps-Repo?style=for-the-badge)](https://github.com/mechanicus01/DevOps)
+
 <!--
 **mechanicus01/mechanicus01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
