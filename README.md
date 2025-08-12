@@ -5,6 +5,8 @@ I'm Phillip Cardenas, a passionate developer with a keen interest in creating in
 [![DevOps Repo](https://img.shields.io/badge/DEvOps-Repo?style=for-the-badge)](https://github.com/mechanicus01/DevOps)
 [![CyberSecurity Repo](https://img.shields.io/badge/cybersecurity-Repo?style=for-the-badge)](https://github.com/mechanicus01/cybersecurity)
 [![Cloud Repo](https://img.shields.io/badge/cloud-Repo?style=for-the-badge)](https://github.com/mechanicus01/cloud)
+[![Linux Repo](https://img.shields.io/badge/linux-Repo?style=for-the-badge)](https://github.com/mechanicus01/linux)
+
 <!--
 **mechanicus01/mechanicus01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
